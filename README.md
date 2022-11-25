@@ -1,5 +1,7 @@
 # GhostArp
-A GNU/Linux Address Resolution Protocol manipulator that allows for MITM attacks and DOS attacks
+A GNU/Linux Address Resolution Protocol manipulator that allows for MITM attacks and DOS attacks through Address Resolution Protocol Poisoning
+
+
 
 ![image](https://user-images.githubusercontent.com/55106700/204055996-642a17c8-3c1c-4fbd-abd4-a8946c4c7ef0.png)
 
