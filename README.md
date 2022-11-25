@@ -28,5 +28,6 @@ run software
 
 `sudo ghostarp`
 
-
+## Extra Notes
+I am in no way liable for any damage caused by this software. This software is for educational purposes only.
 
