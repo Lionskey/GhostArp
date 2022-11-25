@@ -5,7 +5,8 @@ The target of your attack is set through an interactive shell. All traffic flowi
 If the "DOS" variable is set to true, the traffic will not be forwarded and the attacker machine will block all traffic, effectively denial of service
 attacking the target. 
 
-Information about the target and other devices can be aquired in any way. I prefer through nmap
+Information about the target and other devices can be aquired in any way. I prefer through nmap.
+As well as host machine MAC address can be accessed through the ```ip a``` command
 
 ![image](https://user-images.githubusercontent.com/55106700/204055996-642a17c8-3c1c-4fbd-abd4-a8946c4c7ef0.png)
 
