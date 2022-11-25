@@ -1,7 +1,7 @@
 # GhostArp
 A GNU/Linux Address Resolution Protocol manipulator that allows for MITM attacks and DOS attacks through Address Resolution Protocol Poisoning
 
-The target of your attack is set through an interactive shell. All traffic flowing into the target or out of the target will be captured
+The target of your attack is set through an interactive shell. All traffic flowing into the target or out of the target will be captured.
 If the "DOS" variable is set to true, the traffic will not be forwarded and the attacker machine will block all traffic, effectively denial of service
 attacking the target
 
